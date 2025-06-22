@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.freepik.com/free-vector/coffee-shop-logo-template_23-2148986843.jpg" width="300" alt="Coffie Shop Logo"></p>
+<p align="center"><img src="Screenshot 2025-06-22 232131.png" width="100%" alt="Coffie Shop Logo"></p>
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"></a>
